@@ -3,26 +3,26 @@
     <name>API</name>
     <message>
         <source>Please log in with your Deepin ID.</source>
-        <translation>请登录您的Deepin ID帐号</translation>
+        <translation>请登录您的Deepin 帐号</translation>
     </message>
     <message>
         <source>You need to log in to proceed with the subsequent operations.</source>
-        <translation>您需要登录才能进行后续操作。</translation>
+        <translation>您需要登录帐号才能进行后续操作。</translation>
     </message>
 </context>
 <context>
     <name>APIProxy</name>
     <message>
         <source>You have been making too many requests, Please try again later.</source>
-        <translation>您的操作太频繁了，请稍后再试。</translation>
+        <translation>您的操作太多了，请在五分钟后重试。</translation>
     </message>
     <message>
         <source>You need to login to proceed with the subsequent operations.</source>
-        <translation>您需要登录才能进行后续操作。</translation>
+        <translation>您需要登录帐号才能进行后续操作。</translation>
     </message>
     <message>
         <source>Network error, please try later.</source>
-        <translation>网络错误，请稍后再试</translation>
+        <translation>连接失败</translation>
     </message>
 </context>
 <context>
@@ -41,7 +41,7 @@
     </message>
     <message>
         <source>Sign out</source>
-        <translation>退出帐户</translation>
+        <translation>退出登录</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -68,11 +68,11 @@
     </message>
     <message>
         <source>Cancel the urge</source>
-        <translation>不催了</translation>
+        <translation>不催更</translation>
     </message>
     <message>
         <source>Urge</source>
-        <translation>催一下</translation>
+        <translation>催更</translation>
     </message>
 </context>
 <context>
@@ -86,7 +86,7 @@
     <name>Detail</name>
     <message>
         <source>Official response</source>
-        <translation>官方回复</translation>
+        <translation>官方回答</translation>
     </message>
 </context>
 <context>
@@ -105,7 +105,7 @@
     </message>
     <message>
         <source>Bug</source>
-        <translation>BUG</translation>
+        <translation>严重问题</translation>
     </message>
     <message>
         <source>Suggestions</source>
@@ -129,7 +129,7 @@
     </message>
     <message>
         <source>Urge</source>
-        <translation>催一下</translation>
+        <translation>催更</translation>
     </message>
 </context>
 <context>
@@ -140,11 +140,11 @@
     </message>
     <message>
         <source>Discuss and share here</source>
-        <translation>社区用户交流分享</translation>
+        <translation>社区用户交流</translation>
     </message>
     <message>
         <source>Bug Report</source>
-        <translation>Bug反馈</translation>
+        <translation>严重问题反馈</translation>
     </message>
     <message>
         <source>Report issues you found</source>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Submit your suggestions</source>
-        <translation>对操作系统的好建议</translation>
+        <translation>对操作系统的建议</translation>
     </message>
     <message>
         <source>Resources</source>
@@ -168,7 +168,7 @@
     </message>
     <message>
         <source>Join US</source>
-        <translation>加入我们</translation>
+        <translation>加入deepin社区</translation>
     </message>
     <message>
         <source>Internal Testing</source>
@@ -187,7 +187,7 @@
     <name>List</name>
     <message>
         <source>No more items</source>
-        <translation>没有更多了</translation>
+        <translation>没有了</translation>
     </message>
     <message>
         <source>Messages</source>
@@ -202,7 +202,7 @@
     <name>MyTitleBar</name>
     <message>
         <source>Launch at system startup</source>
-        <translation>开机自启</translation>
+        <translation>开机自启动</translation>
     </message>
     <message>
         <source>About</source>
@@ -210,7 +210,7 @@
     </message>
     <message>
         <source>Exit</source>
-        <translation>退出</translation>
+        <translation>退出软件</translation>
     </message>
     <message>
         <source>Deepin Home</source>
@@ -218,7 +218,7 @@
     </message>
     <message>
         <source>Quick login to forums, submit suggestions, and report bugs.</source>
-        <translation>快速登入论坛、提需求和报Bug。</translation>
+        <translation>快速进入论坛、提需求和报问题。</translation>
     </message>
 </context>
 <context>
@@ -247,7 +247,7 @@
     <name>Offline</name>
     <message>
         <source>Network error, please try later</source>
-        <translation>网络错误，请稍后再试</translation>
+        <translation>无法加载</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -324,7 +324,7 @@
     </message>
     <message>
         <source>The issue is not a bug or of a different nature.</source>
-        <translation>非Bug类型问题</translation>
+        <translation>非严重问题</translation>
     </message>
     <message>
         <source>The issue has been resolved and awaiting formal release</source>
@@ -395,7 +395,7 @@
     </message>
     <message>
         <source>Bug Report</source>
-        <translation>BUG反馈</translation>
+        <translation>严重问题反馈</translation>
     </message>
     <message>
         <source>Title：</source>
@@ -451,7 +451,7 @@
     </message>
     <message>
         <source>Are you sure you want to exit the feedback submission?</source>
-        <translation>您确定要退出反馈信息创建吗？</translation>
+        <translation>您确定要退出反馈创建吗？</translation>
     </message>
     <message>
         <source>The feedback content will not be saved.</source>
@@ -487,7 +487,7 @@
     </message>
     <message>
         <source>Incorrect email address entered.</source>
-        <translation>输入的邮件地址不正确</translation>
+        <translation>输入的邮件不正确</translation>
     </message>
     <message>
         <source>Device Information</source>
