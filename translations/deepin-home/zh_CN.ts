@@ -14,7 +14,7 @@
     <name>APIProxy</name>
     <message>
         <source>You have been making too many requests, Please try again later.</source>
-        <translation>您的操作太多了，请在五分钟后重试。</translation>
+        <translation>您的操作太多了，请等会儿重试。</translation>
     </message>
     <message>
         <source>You need to login to proceed with the subsequent operations.</source>
@@ -443,7 +443,7 @@
     </message>
     <message>
         <source>Image files</source>
-        <translation>图片文件</translation>
+        <translation>图片</translation>
     </message>
     <message>
         <source>Drag and drop files or click buttons to add pictures, up to three</source>
@@ -451,7 +451,7 @@
     </message>
     <message>
         <source>Are you sure you want to exit the feedback submission?</source>
-        <translation>您确定要退出反馈创建吗？</translation>
+        <translation>您确定要退出反馈内容创建吗？</translation>
     </message>
     <message>
         <source>The feedback content will not be saved.</source>
