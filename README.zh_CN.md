@@ -6,7 +6,7 @@
 
 - [x] 提交问题反馈和需求
 
-- [ ] 社区论坛消息提醒
+- [x] 社区论坛消息提醒
 
 [英文文档](README.md) |
 [设计文档](docs/design.zh_CN.md)
@@ -17,19 +17,7 @@
 
 ## 构建依赖
 
-- build-essential:amd64
-- debhelper
-- cmake
-- qt5-default
-- qtbase5-dev
-- qtdeclarative5-dev
-- libdtkcommon-dev
-- libdtkcore-dev
-- libdtkgui-dev
-- libdtkdeclarative-dev
-- qttools5-dev-tools
-- qml-module-qtquick-dialogs
-- libssl-dev
+请在debian/control 查看构建依赖
 
 ## 从源码构建
 
