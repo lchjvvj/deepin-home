@@ -19,12 +19,12 @@
     <message>
         <location filename="../src/main/homeDaemon.cpp" line="92"/>
         <source>Exit</source>
-        <translation>退出</translation>
+        <translation>退出应用</translation>
     </message>
     <message>
         <location filename="../src/main/homeDaemon.cpp" line="333"/>
         <source>View</source>
-        <translation>查看</translation>
+        <translation>查看信息</translation>
     </message>
 </context>
 </TS>
