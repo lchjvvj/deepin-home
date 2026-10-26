@@ -2,8 +2,9 @@ deepin-home (1.6.7) unstable; urgency=medium
 
   * 更新最低cmake版本
   * 更新中文翻译
+  * 更新debhelper-compat为13
 
- -- gfc <ffgcc45@qq.com>  Sat, 25 Oct 2026 13:56:17 +0800
+ -- gfc <ffgcc45@qq.com>  Mon, 26 Oct 2026 11:30:17 +0800
 
 deepin-home (1.6.6) unstable; urgency=medium
 
