@@ -6,7 +6,7 @@
 
 - [x] Bug Report & Suggestions
 
-- [ ] Forum Message Notification
+- [x] Forum Message Notification
 
 [中文说明](README.zh_CN.md)
 
@@ -16,19 +16,7 @@
 
 ## Build dependencies
 
-- build-essential:amd64
-- debhelper
-- cmake
-- qt5-default
-- qtbase5-dev
-- qtdeclarative5-dev
-- libdtkcommon-dev
-- libdtkcore-dev
-- libdtkgui-dev
-- libdtkdeclarative-dev
-- qttools5-dev-tools
-- qml-module-qtquick-dialogs
-- libssl-dev
+Please check build dependencies in debian/control
 
 ## Build from source code
 
