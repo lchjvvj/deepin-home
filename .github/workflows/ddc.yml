@@ -1,0 +1,27 @@
+name: Building GXDE Testing Package
+run-name: Building ${{ GITHUB.REPOSITORY }}
+
+on:
+  workflow_call:
+    secrets:
+      PASSWD:
+        required: true
+      USERS:
+        required: true
+      HOST: 
+        required: true
+      UPATH: 
+        required: true
+      UPROGRAM: 
+        required: true
+      UPORT: 
+        required: true
+
+env:
+  REPOSITORY: https://github.com/lchjvvj/deepin-home 
+  BOTTLEPATH: system-bottle
+
+jobs:  
+  call-deepin:
+    uses: GXDE-OS/GXDE/.github/workflows/building-deb-zhuangzhuang-cross.yml@master
+    secrets: inherit
